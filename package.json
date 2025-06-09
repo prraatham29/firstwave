@@ -1,0 +1,33 @@
+{
+  "name": "firstwave",
+  "version": "1.0.0",
+  "description": "AI Infrastructure & Innovation. Locally Delivered. Globally Impactful.",
+  "main": "postcss.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.21",
+    "framer-motion": "^12.16.0",
+    "lucide-react": "^0.513.0",
+    "motion": "^12.16.0",
+    "postcss": "^8.5.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.8.3",
+    "ui": "github:shadcn/ui"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.5.1",
+    "prettier": "3.5.3",
+    "vite": "^5.4.19"
+  }
+}
